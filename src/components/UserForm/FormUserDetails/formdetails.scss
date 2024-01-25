@@ -1,0 +1,18 @@
+.userDetails{
+    border: 2px solid grey;
+    box-shadow: 3px 4px 10px grey;
+    width: 400px;
+    background-color: rgb(229, 160, 71);
+}
+
+.inputfield{
+    display: flex;
+    flex-direction: column;
+    margin: 20px 0 0;
+}
+
+.continueBtn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
